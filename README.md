@@ -13,6 +13,8 @@ Networktool.py contains a number of useful tools, from checking if two nodes sha
 
 GenerativeTool.py contains the implementations of the algorithms used to create the multi-layer networks
 
+VoteTool.py contains a number of useful function to implement complex voting procedures as well as some distortion effect in polls
+
 The following files have been used to simulate and measure some of the results in the paper:
 
 ConfDiffEffect.ipynb implent the study of conforming and difforming ideas in polls
@@ -23,4 +25,6 @@ ChiTest2.ipynb implment the measure of chisquared related to the diffusion of vo
 
 PollTry3.ipynb implement a simple polling 
 
-ACB2-analysis-StepCreation-Copy2.ipynb implement the creation and analysis of a multi-layer network with an anglorithm that compare beliefs and create a new node at each step.
+ACB2-analysis-StepCreation-Copy2.ipynb implement the creation and analysis of a multi-layer network with an anglorithm that compare beliefs and create a new node at each step
+
+PowerLawTest-ACB.ipynb, PowerLawTest-AFF.ipynb implement the analysis for power-law distribution in generating multi-layer networks with different algorithms
