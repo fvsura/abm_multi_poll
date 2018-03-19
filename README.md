@@ -1,4 +1,6 @@
 # multi_poll
+Collection of tools to create a multilayer network using an agent based model. Diffusion of ideas as well as complex interaction are implemented. Can be used to simulate voting scenarios and polls. 
+
 Here you can find all the modules used in support of the paper "Systematic errors in polls: why we can't capture society's complexity yet".
 
 All code is written in Python3, using Jupyter platform.
